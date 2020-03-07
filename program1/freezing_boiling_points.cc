@@ -31,3 +31,9 @@ int main() {
                  }
   return 0;
 }
+
+// Comments: this is overly complicated for what you need to do. Nested if statements are going to
+// make your program harder to read and maintain. What happens if we add another element or
+// substance to the mix? Consider how to do this in a clearer way (see solutions).
+//
+// Score: 18 / 20

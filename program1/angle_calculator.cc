@@ -11,3 +11,5 @@ int main() {
   cout << "Tan: " << tan(Angle) <<endl;
   return 0;
 }
+
+// Score: 20 / 20

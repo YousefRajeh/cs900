@@ -56,3 +56,9 @@ if (Package == 'C') {
 }
   return 0;
 }
+
+// Comments: please format your code -- this is very hard to read. Use variables for various plan
+// details so that if they change in the future, it's easy to update them. You've hardcoded them
+// right now and that will be difficult to change later on.
+//
+// Score: 18 / 20

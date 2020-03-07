@@ -26,3 +26,6 @@ cout << "Amount Paid Back: $" << amount_paid << endl;
 cout << "Interest Paid: $" << Interest_Payment << endl; 
   return 0;
 }
+// Comments: declare variables as close to where you need them as possible.
+
+// Score: 18 / 20

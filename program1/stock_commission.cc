@@ -11,3 +11,7 @@ cout << "commision: " << commision << endl;
 cout << "total: " << total << endl;
   return 0;
 }
+
+// Comments: math seems wrong here?
+//
+// Score: 15 / 20
