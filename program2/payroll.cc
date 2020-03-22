@@ -26,3 +26,6 @@ cout << "The gross wage for employee: " << emp_id[i] << " is " << wages [i] << "
 }
   return 0;
 }
+
+// Comments: use of 7 repeatedly will make it hard to change in the future, use a variable
+// Score: 18 / 20

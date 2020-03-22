@@ -29,3 +29,5 @@ cout << Number << " isn't a prime number." <<endl;
 
   return 0;
 }
+//
+// Score: 20 / 20
